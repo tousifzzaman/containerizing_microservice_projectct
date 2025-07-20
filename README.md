@@ -17,25 +17,8 @@ A complete microservice-based e-commerce app powered by Docker and modern web te
 ```bash
 docker-compose up --build
 ```
-📦 Tech Stack
-  1.Angular
 
-  2.Node.js + Express
 
-  3.Spring Boot (Java)
+ 
 
-  4.MongoDB & MySQL
-
-  5.NGINX
-
-  6.Docker & Docker Compose
-
-🔧 Requirements
-Docker & Docker Compose installed
-
-Basic system with 2 GB+ RAM free
-
-👨‍💻 Author
-Md Tousif Zzaman
-📫 GitHub: @tousifzzaman
 
