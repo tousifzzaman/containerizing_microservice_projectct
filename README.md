@@ -18,9 +18,9 @@ A complete microservice-based e-commerce app powered by Docker and modern web te
 docker-compose up --build
 ```
 
-## 📷 Screenshot
+## 📸 Project Screenshot
 
-![Preview](assets/screenshot.png)
+![Screenshot](assets/Screenshot%202025-07-20%20123204.png)
 
  
 
